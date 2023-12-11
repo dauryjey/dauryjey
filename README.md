@@ -4,7 +4,7 @@
 Hey, I'm Daury Pérez, also known as @dauryjey. Most importantly, I'm a Frontend Web Developer, driven by passion and self-taught expertise.
 
 + 🔭 Currently, I'm immersed in exciting projects for my portfolio.
-+ 📕 Right now, I'm diving into the pages of Eloquent Javascript.
++ 📕 Right now, I'm diving into the pages of Beginning Database Design.
 + ⚡ Fun fact: I have a deep love for analyzing movies!
 
 ## ⚙️ Languages and Tools:
