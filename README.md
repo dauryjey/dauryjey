@@ -1,10 +1,10 @@
 # 🖐🏼 Hi there
 
 ## ℹ️ About me
-Hey, I'm Daury Pérez, also known as @dauryjey. Most importantly, I'm a Frontend Web Developer, driven by passion and self-taught expertise.
+Hey, I'm Daury Pérez, also known as @dauryjey. Most importantly, I'm a Full Stack Developer, driven by passion and self-taught expertise.
 
 + 🔭 Currently, I'm immersed in exciting projects for my portfolio.
-+ 📕 Right now, I'm diving into the pages of Beginning Database Design.
++ 📕 Right now, I'm diving into the pages of C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals.
 + ⚡ Fun fact: I have a deep love for analyzing movies!
 
 ## ⚙️ Languages and Tools:
@@ -19,6 +19,11 @@ Hey, I'm Daury Pérez, also known as @dauryjey. Most importantly, I'm a Frontend
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
