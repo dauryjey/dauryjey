@@ -4,7 +4,7 @@
 Hey, I'm Daury Pérez, also known as @dauryjey. Most importantly, I'm a Full Stack Developer, driven by passion and self-taught expertise.
 
 + 🔭 Currently, I'm immersed in exciting projects for my portfolio.
-+ 📕 Right now, I'm diving into the pages of C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals.
++ 📕 Right now, I'm diving into the pages of Pragmatic Programmer/
 + ⚡ Fun fact: I have a deep love for analyzing movies!
 
 ## ⚙️ Languages and Tools:
