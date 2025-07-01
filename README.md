@@ -1,13 +1,5 @@
-# 🖐🏼 Hi there
+# If there’s a stack, I’m probably in it.
 
-## ℹ️ About me
-Hey, I'm Daury Pérez, also known as @dauryjey. Most importantly, I'm a Full Stack Developer, driven by passion and self-taught expertise.
-
-+ 🔭 Currently, I'm immersed in exciting projects for my portfolio.
-+ 📕 Right now, I'm diving into the pages of Pragmatic Programmer.
-+ ⚡ Fun fact: I have a deep love for analyzing movies!
-
-## ⚙️ Languages and Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -34,11 +26,3 @@ Hey, I'm Daury Pérez, also known as @dauryjey. Most importantly, I'm a Full Sta
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)
 
-## ⚡ Stats:
-![Daury's GitHub stats](https://github-readme-stats.vercel.app/api?username=dauryjey&show_icons=true&theme=tokyonight)
-
-## 📘 Sources I love:
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
