@@ -26,3 +26,4 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)
 
+- Contributor to [NuitkaWebsite](https://github.com/Nuitka/Nuitka-website.git).
